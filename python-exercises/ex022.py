@@ -1,0 +1,6 @@
+nome = str(input('Olá, poderia me dizer seu nome completo: ')).strip()
+pnome = nome.split()
+mnome = nome.upper()
+minome = nome.lower()
+print('Belo nome, {}. É assim que ele ficaria todo em maiúsculo {} e assim todo em minúsculo {}. Gostou?'.format(nome, mnome, minome))
+print('Seu lindo nome tem {} letras, e seu primeiro nome {}.'.format(len(nome.replace(' ', '')), len(pnome[0])))
