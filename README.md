@@ -54,3 +54,17 @@ Exercícios desenvolvidos ao longo do curso de Python do canal Curso em Vídeo
 <li> ex026 – Faça um programa que leia uma frase pelo teclado e mostre: Quantas vezes aparece a letra A, em que posição ela aparece a primeira vez, em que posição ela aparece a última vez. <br />
 <li> ex027 – Faça um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro e o último nome separadamente. </li> </ul> <br />
 <br />
+  
+  <b>
+  Condições (parte 1)
+</b>
+<ul> <br />
+<li> ex028 – Escreva um programa que faça o computador “pensar” em um número inteiro entre 0 e 5 e peça para o usuário tentar descobrir qual foi o número escolhido pelo computador. O programa deverá escrever na tela se o usuário acertou ou errou. <br />
+<li> ex029 – Escreva um programa que leia a velocidade de um carro. Se ele ultrapassar 80km/h, mostre uma mensagem dizendo que ele foi mutado. A multa vai custar R$7,00 por cada Km acima do limite. <br />
+<li> ex030 – Crie um programa que leia um número inteiro e mostre na tela se ele é PAR ou ÍMPAR. <br />
+<li> ex031 – Desenvolva um programa que pergunte a distância de uma viagem em Km. Calcule o preço da passagem, cobrando R$0,50 por Km para viagens de até 200Km e R$0,45 para viagens mais longas. <br />
+<li> ex032 – Faça um programa que leia um ano qualquer e mostre se ele é bissexto. <br />
+<li> ex033 – Faça um programa que leia três números e mostre qual é o maior e qual é o menor. <br />
+<li> ex034 – Escreva um programa que pergunte o salário de um funcionário e calcule o valor de seu aumento. Para salários superiores a R$1.250,00, calcule um aumento de 10%. Para inferiores ou iguais, o aumento é de 15%. <br />
+<li> ex035 – Desenvolva um programa que leia o comprimento de três retas e diga ao usuário se elas podem ou não formar um triângulo. </li> </ul> <br />
+
